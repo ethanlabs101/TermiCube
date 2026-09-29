@@ -155,7 +155,7 @@ The project is intentionally small and self-contained.
 
 MIT License.
 
-See `LICENSE` for details.
+See [LICENSE](https://github.com/ethanlabs101/TermiCube/blob/main/LICENSE) for details.
 
 ---
 
