@@ -142,9 +142,9 @@ I wanted to see how far a dependency-free Python terminal animation could be pus
 ```text
 TermiCube/
 ├── LICENSE
-├── termicube.py
 ├── README.md
-└── demo.gif
+├── demo.gif
+└── termicube.py
 ```
 
 The project is intentionally small and self-contained.
