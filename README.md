@@ -77,9 +77,7 @@ That's it.
 | Key         | Action                              |
 | ----------- | ----------------------------------- |
 | `Q` / `Esc` | Quit                                |
-| `Space`     | Skip the current move               |
 | `+` / `-`   | Increase / decrease animation speed |
-| `R`         | Generate a new scramble             |
 
 ---
 
