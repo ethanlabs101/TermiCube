@@ -41,7 +41,7 @@ Just Python and your terminal.
 
 ## Preview
 
-![TermiCube Preview GIF]()
+![TermiCube Preview GIF](https://github.com/ethanlabs101/TermiCube/blob/main/demo.gif)
 
 ---
 
