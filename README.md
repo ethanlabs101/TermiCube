@@ -6,8 +6,6 @@
 [![Dependencies](https://img.shields.io/badge/Dependencies-None-00D4FF?style=flat-square)](#requirements)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)](#license)
 
-![TermiCube Header Image]()
-
 ---
 
 ## What is TermiCube?
