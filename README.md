@@ -141,6 +141,7 @@ I wanted to see how far a dependency-free Python terminal animation could be pus
 
 ```text
 TermiCube/
+├── LICENSE
 ├── termicube.py
 ├── README.md
 └── demo.gif
